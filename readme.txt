@@ -9,3 +9,5 @@ Mais um texto.
 pelo github do Mac, fiz Caca com VS Studio code do Mac...
 
 Agora foi no VS do Mac, vou checar no windows agora.
+
+Pelo |VS do windows... Acho que deu tudo certo.
